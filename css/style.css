@@ -1,0 +1,260 @@
+.conteiner {
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+    position: relative;
+
+}
+
+header {
+    max-width: 93.5%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+    top: 0;
+
+}
+
+.fixd {
+    max-width: inherit;
+    width: inherit;
+    position: absolute;
+    background-color: #ffffff;
+    margin: 0 auto;
+    border-radius: 0 0 45px 45px;
+    position: fixed;
+    gap: 367px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+.logo {
+    padding-top: 40px;
+    margin-left: 40px;
+    padding-bottom: 40px;
+}
+
+.clicmenu {
+    padding-top: 40px;
+}
+
+.search {
+
+    display: flex;
+    justify-content: space-around;
+    gap: 28px;
+    padding-top: 33px;
+    padding-right: 56px;
+    text-align: center;
+    color: #111111;
+}
+
+
+.section1 {
+    margin: 0 auto;
+    max-width: 90%;
+    height: 417px;
+    margin-left: 45px;
+    padding-top: 180px;
+
+
+}
+.photo2{
+    border-radius: 80px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    height: inherit;
+    display: flex;
+    position: relative;
+    border-radius: 10px;
+
+}
+
+
+.price {
+    width: 355px;
+    height: 89px;
+    font-size: 24px;
+    text-align: center;
+    z-index: 2;
+    color: #ffffff;
+    position: absolute;
+    top: 137px;
+    left: 461px;
+
+}
+
+button {
+    width: 176px;
+    height: 42px;
+    top: 230px;
+    left: 553px;
+    font-size: 12px;
+    color: #111111;
+    position: absolute;
+
+
+}
+
+.section2 {
+    max-width: 90%;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 285px;
+
+ 
+}
+
+.satauri {
+   padding-left: 25px;
+    font-size: 28px;
+}
+
+.box2 {
+    padding-top: 29px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 26px;
+}
+
+.cards1 {
+    width: 277px;
+    height: 475px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.cards2 {
+    width: 277px;
+    height: 475px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.cards3 {
+    width: 277px;
+    height: 475px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.cards4 {
+    width: 277px;
+    height: 475px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+figcaption {
+    padding-top: 38px;
+    padding-left: 30px;
+    font-size: 18px;
+    color: #111111;
+}
+
+.test {
+    justify-content: center;
+    padding-top: 7px;
+    padding-left: 30px;
+    font-size: 12px;
+    color: #6e6e6e;
+}
+
+.images {
+    padding-top: 31px;
+    padding-left: 56px;
+
+}
+
+.tsona {
+    padding-top: 20px;
+    padding-left: 30px;
+    display: flex;
+    text-align: center;
+
+    gap: 7px;
+}
+
+.GR {
+
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    padding-top: 13px;
+    width: 105px;
+    height: 35px;
+    font-size: 13px;
+
+}
+
+.KG {
+
+    background-color: #e7e7e7;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 13px;
+    width: 105px;
+    height: 35px;
+    font-size: 13px;
+
+}
+
+.priceicon {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 85px;
+    margin-left: -15px;
+
+}
+
+.faicon {
+    width: 34px;
+    height: 34px;
+    background-color: #74b42c;
+    font-display: flex;
+    text-align: center;
+    margin-top: -10px;
+    margin-right: -25px;
+
+}
+
+.fa-cart-shopping {
+    padding-top: 10px;
+}
+
+.nobeg {
+    margin-left: -80px;
+
+}
+
+.pricered {
+    color: red;
+}
+
+.footdiv {
+    padding-top: 179px;
+    display: flex;
+    justify-content: space-around;
+    gap: 650px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.contact {
+    font-size: 14px;
+    color: #111111;
+    flex-direction: column;
+
+}
+
+.contact2 {
+    padding-bottom: 29px;
+}
